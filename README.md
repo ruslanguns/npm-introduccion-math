@@ -1,5 +1,7 @@
 # Operaciones matemáticas
 
+Esta es una aplicación para la realización de operaciones matemáticas básicas como suma, resta, multiplicación y división. Existe una validación para que se introduzcan solo números.
+
 ## Instalación
 
 ```
@@ -23,4 +25,16 @@ console.log(op.suma(1,1)) // Resp: 2
 
 ```
 console.log(op.resta(3,1)) // Resp: 2
+```
+
+### Multiplicación:
+
+```
+console.log(op.multiplicacion(4,4)) // Resp: 16
+```
+
+### División:
+
+```
+console.log(op.division(4,4)) // Resp: 16
 ```
